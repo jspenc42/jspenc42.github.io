@@ -2,7 +2,7 @@
 title: Soulstorm Studios
 subtitle: your gateway to tech infamy
 email: jspenc042@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+description: Some kind of cool and cryptic description Up<br /> of what this company does.
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
@@ -10,7 +10,7 @@ street_address:
 city: Ogden
 state: UT
 zip_code: 84404
-country: United States of America
+country: USA
 phone:
 
 # homepage tiles
