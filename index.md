@@ -3,7 +3,7 @@ layout: home
 title: Home
 landing-title: 'Company Motto or Attention Grabber'
 description: null
-image: null
+image: assets/images/DigitalStorm.png
 author: null
 show_tile: true
 ---
