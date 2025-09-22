@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Company Motto or Attention Grabber'
+landing-title: 'We're not that special'
 description: null
 image: assets/images/DigitalStorm.png
 author: null
