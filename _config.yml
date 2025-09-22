@@ -11,7 +11,7 @@ city: Ogden
 state: UT
 zip_code:
 country: USA
-phone:
+phone: Classified
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
