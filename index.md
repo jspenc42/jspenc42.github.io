@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'We are not that special'
+landing-title: 'We&rsquo;re not that special'
 description: null
 image: assets/images/DigitalStorm.png
 author: null
