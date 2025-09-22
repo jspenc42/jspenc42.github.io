@@ -1,8 +1,8 @@
 # site settings
 title: Soulstorm Studios
-subtitle: your gateway to tech infamy
+subtitle: a software company
 email: jspenc042@gmail.com
-description: Some kind of cool and cryptic description <br /> of what this company does.
+description: Honestly, nothing we do is that great. <br /> Take a look at our terrible products and see for yourself.
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
